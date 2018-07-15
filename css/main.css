@@ -6,12 +6,17 @@
 
 pre {
     padding: 1rem;
-    background: #e8e8e8;
+    /*background: #e8e8e8;*/
+    background: #ED1AC3;
     font-size: 1.4rem;
 }
 
 body {
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 1.2rem;
+    /*font-family: Helvetica, Arial, sans-serif;*/
+    font-family: 'Dokdo', cursive;
+    font-size: 2.5rem;
     font-weight: 300;
+    color: #28C7FC;
+    background: #FA4002;
 }
+
